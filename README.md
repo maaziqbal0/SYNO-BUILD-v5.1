@@ -1,4 +1,4 @@
-# AURORAX — Gesture Voxel Engine
+# SYNO-BUILD
 
 SYNO-BUILD is a futuristic, gesture-controlled voxel builder that lets you create, erase, throw, rotate, and animate 3D voxel structures using nothing but your hands, no mouse, no keyboard, no controllers.
 
